@@ -4,8 +4,7 @@ A feature-rich Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 Live Demo
 
-👉 [Play it Live on GitHub Pages](https://your-username.github.io/tic-tac-toe)  
-*(Replace the link above with your actual GitHub Pages link)*
+👉 [Play it Live on GitHub Pages] https://sumitt123.github.io/TicTacToe/
 
 ---
 
